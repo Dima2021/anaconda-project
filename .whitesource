@@ -1,3 +1,15 @@
 {
-  "settingsInheritedFrom": "Dima2021/whitesource-config@master"
+  "settingsInheritedFrom": "Dima2021/whitesource-config@master",
+  "scanSettings": {
+    "configMode": "LOCAL",
+    "configExternalURL": "",
+    "projectToken": "",
+    "baseBranches": []
+  },
+  "checkRunSettings": {
+    "vulnerableCheckRunConclusionLevel": "failure"
+  },
+  "issueSettings": {
+    "minSeverityLevel": "LOW"
+  }
 }
